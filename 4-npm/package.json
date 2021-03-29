@@ -1,0 +1,18 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "learning",
+    "nodejs"
+  ],
+  "author": "joe.dev",
+  "license": "MIT",
+  "dependencies": {
+    "cfonts": "^2.9.1"
+  }
+}
