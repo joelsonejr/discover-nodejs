@@ -11,8 +11,5 @@
     "nodejs"
   ],
   "author": "joe.dev",
-  "license": "MIT",
-  "dependencies": {
-    "cfonts": "^2.9.1"
-  }
+  "license": "MIT"
 }
